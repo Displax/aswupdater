@@ -1,6 +1,6 @@
 {
     "version": "101.0.4951.61",
     "versionCode": "1010495161",
-    "zipUrl": url,
-    "changelog": url
+    "zipUrl": "https://github.com/Displax/aswupdater/releases/download/101.0.4951.61/aswupdater_101.0.4951.61.zip",
+    "changelog": "https://raw.githubusercontent.com/Displax/aswupdater/main/changelog.md"
 }
